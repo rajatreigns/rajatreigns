@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rajatreigns
-- 👀 I’m interested in Software Development Engineer 
-- 🌱 I’m currently learning React.js
+- 
 -
 
 
